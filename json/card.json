@@ -1,0 +1,110 @@
+{
+    "computerScience": {
+        "quizName": "Computer Science",
+        "quizCards": [
+            {
+                "cardNo": "computerScience-1",
+                "cardTopic": "HTML"
+            },
+            {
+                "cardNo": "computerScience-2",
+                "cardTopic": "javaScript"
+            },
+            {
+                "cardNo": "computerScience-3",
+                "cardTopic": "C#"
+            },
+            {
+                "cardNo": "computerScience-4",
+                "cardTopic": "java"
+            },
+            {
+                "cardNo": "computerScience-5",
+                "cardTopic": "python"
+            }
+        ]
+    },
+    "gK": {
+        "quizName": "General Knowledge",
+        "quizCards": [
+            {
+                "cardNo": "generalKnowledge-1",
+                "cardTopic": "reasoning"
+            },
+            {
+                "cardNo": "generalKnowledge-2",
+                "cardTopic": "important days of october"
+            },
+            {
+                "cardNo": "generalKnowledge-3",
+                "cardTopic": "ind-pak border"
+            },
+            {
+                "cardNo": "generalKnowledge-4",
+                "cardTopic": "parliamentry system of india"
+            },
+            {
+                "cardNo": "generalKnowledge-5",
+                "cardTopic": "president & pressure groups"
+            },
+            {
+                "cardNo": "generalKnowledge-6",
+                "cardTopic": "Indian Geography"
+            },
+            {
+                "cardNo": "generalKnowledge-7",
+                "cardTopic": "supreme court of india"
+            },
+            {
+                "cardNo": "generalKnowledge-8",
+                "cardTopic": "revolt of 1857"
+            }
+        ]
+    },
+    "gS": {
+        "quizName": "General Science",
+        "quizCards": [
+            {
+                "cardNo": "generalScience-1",
+                "cardTopic": "biology"
+            },
+            {
+                "cardNo": "generalScience-2",
+                "cardTopic": "chemistry"
+            },
+            {
+                "cardNo": "generalScience-3",
+                "cardTopic": "physics"
+            },
+            {
+                "cardNo": "generalScience-4",
+                "cardTopic": "carbon and its compounds"
+            },
+            {
+                "cardNo": "generalScience-5",
+                "cardTopic": "plant hormones"
+            }
+        ]
+    },
+    "eng": {
+        "quizName": "English",
+        "quizCards": [
+            {
+                "cardNo": "english-1",
+                "cardTopic": "commonly misspelled words"
+            },
+            {
+                "cardNo": "english-2",
+                "cardTopic": "Letters easily mixed up"
+            },
+            {
+                "cardNo": "english-3",
+                "cardTopic": "pick a word"
+            },
+            {
+                "cardNo": "english-4",
+                "cardTopic": "things to do with words"
+            }
+        ]
+    }
+}
