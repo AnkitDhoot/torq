@@ -1,2 +1,11 @@
-# torq
-Torq is a number one source for all subjects quizes. 
+## Torq(quiz-website)
+Torq is a quiz website and a number one source for all subjects quizes. 
+
+### Technologies used
+
+#### JavaScript
+#### HTML5
+#### SASS
+#### Bootstrap
+#### Json data
+#### browser localstorage
